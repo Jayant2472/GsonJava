@@ -1,0 +1,69 @@
+{
+  "extra": "",
+  "extra1": "",
+  "mastersData": "",
+  "message": "",
+  "responseData": {
+    "dashboardDataCount": {
+      "section1": [
+        {
+          "entityName": "ROLE_TEACHER",
+          "entityValue": "1"
+        },
+        {
+          "entityName": "ROLE_STUDENT",
+          "entityValue": "6"
+        },
+        {
+          "entityName": "ROLE_SCHOOL",
+          "entityValue": "1"
+        }
+      ],
+      "section2": [
+        {
+          "entityName": "ROLE_TEACHER",
+          "entityValue": "7"
+        },
+        {
+          "entityName": "ROLE_STUDENT",
+          "entityValue": "4"
+        },
+        {
+          "entityName": "ROLE_SCHOOL",
+          "entityValue": "1"
+        }
+      ],
+      "section3": [
+        {
+          "entityName": "ROLE_TEACHER",
+          "entityValue": "0"
+        },
+        {
+          "entityName": "ROLE_STUDENT",
+          "entityValue": "0"
+        },
+        {
+          "entityName": "ROLE_SCHOOL",
+          "entityValue": "0"
+        }
+      ],
+      "section4": [
+        {
+          "entityName": "ROLE_TEACHER",
+          "entityValue": "1"
+        },
+        {
+          "entityName": "ROLE_STUDENT",
+          "entityValue": "6"
+        },
+        {
+          "entityName": "ROLE_SCHOOL",
+          "entityValue": "1"
+        }
+      ]
+    }
+  },
+  "status": "SUCCESS",
+  "statusCode": "1",
+  "userType": ""
+}
